@@ -1,23 +1,31 @@
 # Power BI Desktop Report
 
 ## 📊 Report Overview
-This is a sample **Power BI Desktop (.pbix)** report created as a learning project.
+This repository contains a sample **Power BI Desktop report exported as PDF**.
 
-- 📁 File: `MyPowerBIReport.pbix`
+- 📁 File: [`Sece sample report.pdf`](./Sece%20sample%20report.pdf)
 - 🛠️ Created using: Power BI Desktop
 - 📅 Date Created: 2025-09-10
 
-## ✅ How to Open
-1. Download the `.pbix` file from this repository.
-2. Install **Power BI Desktop** from https://powerbi.microsoft.com/en-us/desktop/.
-3. Open Power BI Desktop → Click "Open" → Select the `.pbix` file.
+---
 
-## ⚡ Notes
-- The report includes sample data and visualizations.
-- No sensitive data included.
-- Suitable for learning and practicing Power BI features.
+## ✅ How to View the Report
+You can directly view the report by clicking the PDF file in this repository or download it for offline viewing.
+
+[📄 View the Power BI Report PDF](./Sece%20sample%20report.pdf)
 
 ---
 
-Created by: SANJAY N  
+## ⚡ Report Details
+- The report contains sample data and visualizations for learning purposes.
+- It includes interactive visualizations that were exported into a static PDF.
+- No sensitive data is included.
 
+---
+
+## 🌐 About Me
+Created by: **SANJAY N** 
+
+---
+
+Feel free to explore and provide feedback! 😊
